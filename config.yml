@@ -13,7 +13,6 @@ engine:                      # engine settings
         - komodo.bin
         - elo3300.bin
         - book.bin
-        - book1.bin
         - book2.bin
         - book3.bin
         - book4.bin
