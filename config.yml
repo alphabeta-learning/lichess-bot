@@ -37,7 +37,7 @@ Threads : 8
 Ponder : false
 
      go_commands:             # additional options to pass to the UCI go command
-       nodes: 1000000               # Search so many nodes only.
+       nodes: 100              # Search so many nodes only.
        depth: 30               # Search depth ply only.
        movetime: 10         # Integer. Search exactly movetime milliseconds.
 
