@@ -36,10 +36,10 @@ Hash : 256
 Threads : 8
 Ponder : false
 
-     go_commands:             # additional options to pass to the UCI go command
-       nodes: 100              # Search so many nodes only.
-       depth: 30               # Search depth ply only.
-       movetime: 10         # Integer. Search exactly movetime milliseconds.
+#    go_commands:             # additional options to pass to the UCI go command
+#      nodes: 100              # Search so many nodes only.
+#      depth: 30               # Search depth ply only.
+#      movetime: 10         # Integer. Search exactly movetime milliseconds.
 
 #  xboard_options:            # arbitrary xboard options passed to the engine
 #    cores: "4"
